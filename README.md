@@ -1,2 +1,2 @@
 # PairOrder
-Creating a console to place a basket order using Zebu API
+Creating a .Net core Console APP to place a basket order using Zebu API
